@@ -1,1 +1,2 @@
-/*lets seee about thiss hehe*/
+/*lets C about thiss hehe*/
+/*WELCOME TO C*/
